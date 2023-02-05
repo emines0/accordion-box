@@ -4,10 +4,6 @@
 
 ![](./idea.png);
 
-#### React Icons
-
-[react icons](https://react-icons.github.io/react-icons/)
-
 - display data from data.js
 - provide all props of question to the Single question component
 - change button based on state
